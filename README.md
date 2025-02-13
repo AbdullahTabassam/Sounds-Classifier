@@ -14,14 +14,14 @@ The goal of this project is to classify the sounds into their respective categor
 
 The project is organized into the following files and directories:
 
-    README.md - This file
-    models/ - Directory containing the trained ANN models in .h5 format
-    notebooks/ - Directory containing the Jupyter notebooks
-        EDA.ipynb - Notebook for Exploratory Data Analysis
-        PreProcessing.ipynb - Notebook for Pre-processing
-        Training.ipynb - Notebook for training the ANN models
-        Evaluation.ipynb - Notebook for evaluating the trained models
-        Sound_Classification.ipynb - Notebook that combines all the above notebooks
+- README.md - This file
+- models/ - Directory containing the trained ANN models in .h5 format
+- notebooks/ - Directory containing the Jupyter notebooks
+- EDA.ipynb - Notebook for Exploratory Data Analysis
+- PreProcessing.ipynb - Notebook for Pre-processing
+- Training.ipynb - Notebook for training the ANN models
+- Evaluation.ipynb - Notebook for evaluating the trained models
+- Sound_Classification.ipynb - Notebook that combines all the above notebooks
   
   On your device, put the jupyter notebook 'Sound_Classification.ipynb' and install the requiresd packages used in the notebook. The models trained are also available and can be used to inference you own data.
 
